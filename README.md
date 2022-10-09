@@ -1,7 +1,11 @@
 # technologies-calendar
+### Routing
+react-router
 ### State manager
-Redux toolkit
-### Fetching
+Redux (Redux toolkit)
+### Requesting data from the server
 RTK Query
 ### Forms
-React hook form 
+react-hook-form
+### Styles
+Scss modules
